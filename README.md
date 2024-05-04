@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Otieno</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist from Nairobi Kenya.</h3>
 
-<p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" width="100%" alt="eric10000" /> </p>
+<p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" width="100%" height="150" alt="eric10000" /> </p>
 
 - 🔭 I’m currently working on [School Management System](https://school-flow.technova.co.ke/)
 
