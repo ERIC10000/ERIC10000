@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Otieno</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist from Nairobi Kenya.</h3>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbWdc_oA0LHbaDHIgeUL3xDBOrvTTVXS2prr5wLHB9w&s" width="100%" alt="eric10000" /> </p>
+<p align="left"> <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="100%"  alt="eric10000" /> </p>
 
 - 🔭 I’m currently working on [School Management System](https://school-flow.technova.co.ke/)
 
